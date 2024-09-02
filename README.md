@@ -1,16 +1,30 @@
-# app2
+# Aplicativo de um restaurante
 
-A new Flutter project.
+Projeto de um aplicativo onde será possivel ver os restaurantes próximos, selecionar as categorias dos alimentos e utilizar o feed para compartilhar com os amigos. 
 
-## Getting Started
+No projeto ainda estou utilizando um mock para simular os dados, mas pretendo adicionar acesso ao banco de dados e consumiar uma outra api para receber dados.
 
-This project is a starting point for a Flutter application.
+## Tecnologias
 
-A few resources to get you started if this is your first Flutter project:
+* Dart
+* Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Projeto 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Foto da página inicial com o tema light
+![Foto 1](https://github.com/Marcaly/app-restaurant-flutter/blob/main/images/Screenshot_20240902_141435.png)
+
+# Foto da página inicial com o tema dark
+![Foto 2](https://github.com/Marcaly/app-restaurant-flutter/blob/main/images/darkmode.png)
+
+# Foto do feed
+![Foto 3](https://github.com/Marcaly/app-restaurant-flutter/blob/main/images/Screenshot_20240902_141551.png)
+
+## ⏭️ Próximos passos
+
+* Implementar telas "pedidos" e "conta". 
+* Acesso ao banco de dados.
+* Adicionar testes unitários.
+
+
+  
